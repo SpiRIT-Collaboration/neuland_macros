@@ -1,0 +1,7 @@
+# this is a comment
+NEvent		100
+Momentum	0.0	0.0	2.0 # in GeV/Z
+VertexFile	VertexLocation.txt
+Particle	2212
+Theta		0
+Phi		0
